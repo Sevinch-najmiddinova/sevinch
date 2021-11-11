@@ -341,12 +341,6 @@ h4{
     Latest articles
 ==========================================*/
 
-.latest-articles {
-    padding: 111px 0 200px;
-    background-image: url(../img/articles-bg1.png), url(../img/articles-bg2.png), url(../img/articles-bg1.png);
-    background-repeat: no-repeat;
-    background-position: 150px 258px, right center, 95% 104%;
-}
 
 .latest-articles .container {
     
