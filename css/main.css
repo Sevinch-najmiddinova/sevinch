@@ -11,7 +11,7 @@ body {
 
 .container {
     margin: 0 auto;
-     max-width: 1487px;
+    max-width: 1400px;
  
 }
 
@@ -63,7 +63,7 @@ h1 {
 
 .healthcare-img {
     display: inline-block;
-    padding-left: 87px;
+    margin-left: 185px;
     margin-bottom: 77px;
 }
 
@@ -172,9 +172,6 @@ h3{
 .leading-title {
     display: inline-block;
     height: 388px;
-    width: 486px;
-    vertical-align: top;
-    padding-top: 57px;
 }
 
 .leading-title-sec {
